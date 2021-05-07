@@ -30,12 +30,15 @@ section{
 .imgDisney1{
     display: flex;
     margin: 0 auto;
-    width:200px;
+    width:20%;
 }
 .services{
     display: flex;
     justify-content: center;
     padding: 30px;
+}
+.services >img{
+    width: 10%;
 }
 .btn{
     border: none;
