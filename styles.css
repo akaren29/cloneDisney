@@ -65,3 +65,26 @@ footer > a{
 footer > p{
     padding: 0px 10px;
 }
+
+@media only screen and (max-width:768px){
+    .background{
+        height: 103vh;
+    }
+    section{
+        height: 69vh;
+    }
+    .imgDisney1{
+        margin: 51px auto 0px;
+    }
+    .services >img{
+        width: 14%;
+    }
+    .btn{
+        width: 45%;
+        height: 40px;
+        font-size: 12px;
+    }
+    .footer{
+        font-size: 10px;
+    }
+}
